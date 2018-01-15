@@ -207,6 +207,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <Content Include="Publish.zip" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="ism\css\my-slider.css" />
     <Content Include="ism\image\slides\beautiful-701678_1280.jpg" />
